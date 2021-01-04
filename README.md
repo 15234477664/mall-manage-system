@@ -1,52 +1,4 @@
-# <center>总述</center>
-
-## 一、项目效果 
-
-`整体效果`
-
-<img src="https://img2020.cnblogs.com/blog/1090617/202003/1090617-20200326220854772-1538499772.gif" style="border: 1px dashed rgb(255, 0, 0);" width="800" height="400">
-
-`登陆页`
-
-<img src="https://img2020.cnblogs.com/blog/1090617/202003/1090617-20200326220909756-2031447460.jpg" style="border: 1px dashed rgb(255, 0, 0);" width="800" height="450">
-
-
-`后台首页`
-
-<img src="https://img2020.cnblogs.com/blog/1090617/202003/1090617-20200326220919921-1571288028.jpg" style="border: 1px dashed rgb(255, 0, 0);" width="800" height="567">
-
-
-`用户管理页`
-
-<img src="https://img2020.cnblogs.com/blog/1090617/202003/1090617-20200326220933117-387212157.jpg" style="border: 1px dashed rgb(255, 0, 0);" width="800" height="384">
-
-
-
-`说明`  这里所有的数据都不是直接通过后端获取的, 而是通过Mock这个工具来模拟后端返回的接口数据。
-
-<br>
-
-##二、项目介绍
-
-#### 1、技术架构
-
-项目总体技术选型
-
-```
-vue-cli 3.0 + element-ui + vue-router + axios +  Vuex + Mock + echarts
-```
-
-#### 2、测试账号地址
-
-`访问地址`: 待搭建
-
-**账号**：admin  **密码**：admin
-
-**账号**：xiaoxiao   **密码**：xiaoxiao
-
-因为菜单是根据不同用户权限动态生成的，所以这里两个账户所看到的后台菜单是不一样的。
-
-#### 3、项目整体结构
+#### 1、项目整体结构
 
 ```makefile
 mall-manage-system # 电商后台管理系统
@@ -96,7 +48,7 @@ mall-manage-system # 电商后台管理系统
         --- vue.config.js
 ```
 
-#### 4、说明
+#### 2、说明
 
 接下来会分五篇博客大致讲下这个项目一些核心代码的实现
 
