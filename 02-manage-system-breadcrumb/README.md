@@ -2,15 +2,6 @@
 
 这篇主要讲解 **面包屑** +  **Tag标签切换功能**：
 
-`整体效果`
-
-<img src="https://img2020.cnblogs.com/blog/1090617/202003/1090617-20200328235021075-64252842.gif" style="border: 1px dashed rgb(255, 0, 0);" width="660" height="420">
-<br>
-<br>
-<img src="https://img2020.cnblogs.com/blog/1090617/202003/1090617-20200328235040766-791087150.jpg" style="border: 1px dashed rgb(255, 0, 0);" width="660" height="220">
-
-`说明` 从上面图片可以看出，面包屑是在head部分组件里,Tag标签虽然不再head部分组件里,但是它在整个管理后台系统中是会一直存在的，所以需要在Main.vue中。
-
 这两块功能的实现,主要依赖Element-ui两个样式 [Breadcrumb 面包屑](https://element.eleme.cn/#/zh-CN/component/breadcrumb)  +  [Tag 标签](https://element.eleme.cn/#/zh-CN/component/tag)
 
 ##  一、面包屑功能 
