@@ -37,9 +37,6 @@
             }]
         };
 ```
-`运行结果`
-
-<img src="https://img2020.cnblogs.com/blog/1090617/202003/1090617-20200330203242764-1607835783.jpg" style="border: 1px dashed rgb(255, 0, 0);" width="700" height="310">
 
 这里展示了一个最简单的图表,官方例子地址：[5 分钟上手 ECharts](https://www.echartsjs.com/zh/tutorial.html#5%20%E5%88%86%E9%92%9F%E4%B8%8A%E6%89%8B%20ECharts),下面对这些参数做个讲解
 
