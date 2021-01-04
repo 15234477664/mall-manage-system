@@ -1,19 +1,3 @@
-# <center>权限管理思路讲解</center>
-
-这篇主要讲解权限相关的功能：
-
-`整体效果`
-
-admin用户看到的菜单
-
-<img src="https://img2020.cnblogs.com/blog/1090617/202004/1090617-20200407193308552-1764988568.gif" style="border: 1px dashed rgb(255, 0, 0);" width="700" height="320">
-
-xiaoxiao用户看到的菜单
-
-<img src="https://img2020.cnblogs.com/blog/1090617/202004/1090617-20200407193318070-994462597.gif" style="border: 1px dashed rgb(255, 0, 0);" width="700" height="320">
-
-可以发现不同的用户所看到侧边栏的菜单是不一样的。
-
 简单来讲大致需要满足的功能就是：
 
 ```
