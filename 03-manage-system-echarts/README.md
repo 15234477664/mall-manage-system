@@ -1,9 +1,5 @@
 # 封装一个ECharts组件的一点思路
 
-`整体效果`
-
-<img src="https://img2020.cnblogs.com/blog/1090617/202003/1090617-20200330202350003-1066958504.jpg" style="border: 1px dashed rgb(255, 0, 0);" width="700" height="480">
-
 ## 一、封装一个ECharts组件的一点思路
 
 #### 1、绘制一个简单的图表
