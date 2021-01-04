@@ -78,8 +78,6 @@
 
 ##  二、Tag标签切换功能
 
-<img src="https://img2020.cnblogs.com/blog/1090617/202003/1090617-20200328235102488-2054721024.jpg" style="border: 1px dashed rgb(255, 0, 0);" width="600" height="120">
-
 #### 1、背景
 
 从上面效果来看，我们发现：
