@@ -1,15 +1,3 @@
-# <center>封装一个Form表单组件和Table组件</center>
-
-这篇主要讲解实现图表的功能：
-
-`整体效果`
-
-<img src="https://img2020.cnblogs.com/blog/1090617/202004/1090617-20200406212604578-1988887549.gif" style="border: 1px dashed rgb(255, 0, 0);" width="700" height="310">
-
-**图片效果**
-
-<img src="https://img2020.cnblogs.com/blog/1090617/202004/1090617-20200406211737316-2130603644.jpg" style="border: 1px dashed rgb(255, 0, 0);" width="700" height="360">
-
 
 ## 一、封装一个Form表单组件
 
@@ -61,11 +49,6 @@
     }
 </script>
 ```
-
-`运行结果`
-
-<img src="https://img2020.cnblogs.com/blog/1090617/202004/1090617-20200406211830668-1185314968.jpg" style="border: 1px dashed rgb(255, 0, 0);" width="700" height="660">
-
 
 从这个简单的示例,至少有两份数据是需要父组件传入到表单组件中的:
 
@@ -170,10 +153,6 @@
 </script>
 
 ```
-
-`运行结果`
-
-<img src="https://img2020.cnblogs.com/blog/1090617/202004/1090617-20200406211843753-1572765516.jpg" style="border: 1px dashed rgb(255, 0, 0);" width="700" height="260">
 
 从这个简单的示例,至少也是两份数据是需要父组件传入到表格组件中的：
 
